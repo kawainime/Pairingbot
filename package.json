@@ -3,7 +3,7 @@
     "scripts": {
         "start": "node gas.js"
     },
-    "author": "apip",
+    "author": "Toko RootSec Bot",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
